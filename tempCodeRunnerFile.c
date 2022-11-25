@@ -1,0 +1,1 @@
+  printf("The sum of vector is : %di + %dj",result,result1);
